@@ -1,7 +1,3 @@
-## This repo is looking for maintainers! Please reach out if interested.
---------
-
-
 node-cryptonote-pool
 ====================
 
